@@ -1,0 +1,11 @@
+{
+    "title"            : "Factoraforming",
+    "name"             : "factoraforming",
+    "author"           : "Bike Shop Studios",
+    "version"          : "0.0.1",
+    "factorio_version" : "1.1",
+    "contact"          : "IDK Man",
+    "license"          : "Creative Commons Attribution-NoDerivatives 4.0 International License",
+    "description"      : "Provides a solution to the pollution",
+    "dependencies"     : [ "base >= 1.1.2" ]
+  }
